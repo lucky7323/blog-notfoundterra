@@ -2,12 +2,12 @@
   "plugins": [
     "collapsible-chapters",
     "comment",
-    "github",
+    "github"
   ],
   "pluginsConfig": {
     "collapsible-chapters": {},
     "github": {
       "url": "https://github.com/lucky7323/blog-notfoundterra"
-    },
+    }
   }
 }
