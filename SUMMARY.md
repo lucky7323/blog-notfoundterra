@@ -14,7 +14,6 @@
 
 ## DApp 분석
 
-* [Anchor Protocol](dapp/anchor-protocol/README.md)
-  * [$PSI 에어드랍 분석](dapp/anchor-protocol/usdpsi.md)
+* [Anchor Protocol](dapp/anchor-protocol.md)
 * [Nexus Protocol](dapp/nexus-protocol/README.md)
   * [Lightpaper 정리](dapp/nexus-protocol/lightpaper.md)
